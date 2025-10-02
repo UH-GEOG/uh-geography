@@ -1,2 +1,2 @@
-# uh-geography
+# Geography program
 Geography program at UH
